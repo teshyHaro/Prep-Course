@@ -1,4 +1,9 @@
-
+h1{
+    color:rgb(90, 52, 133);
+}
+img{
+    width: 400px;
+}
 #spanId{
     font-size: 18px;
     margin: 50px;
@@ -9,12 +14,6 @@
     width: 500px;
     background-color: lightpink;
     padding: 50px;
-    border: 5px;
-    border-color: mediumslateblue;
-    border-style: double;
+    border: 5px double mediumslateblue;
+  
 }  
-
-.divClass{
-    align-content: center;
-      background-image: url('https://i.pinimg.com/474x/40/3b/16/403b164b63646bfaef0bf0f2de042ccd--wrinkled-paper-paper-texture.jpg');
-}
